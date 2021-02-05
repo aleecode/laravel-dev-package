@@ -1,0 +1,12 @@
+{
+    "name": "aleecode/timezones",
+    "description": "Demo creating packages on laravel",
+    "authors": [
+        {
+            "name": "aleecode",
+            "email": "aleecode@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
